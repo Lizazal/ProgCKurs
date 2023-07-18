@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1528232036 source:c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"input.h"
+	"calculate.h"
+	"output.h"
+
+1527858258 c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\menu.h
+
+1527858291 source:c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\menu.c
+	"menu.h"
+	<stdlib.h>
+	<stdio.h>
+
+1527857605 source:c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\calculate.c
+	"calculate.h"
+
+1527790675 c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\calculate.h
+
+1528280947 source:c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\input.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1527858630 c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\input.h
+
+1527807466 c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\output.h
+
+1528279665 source:c:\users\liza\documents\!!универ\Программирование\Курсовая\coursework\output.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"output.h"
+
